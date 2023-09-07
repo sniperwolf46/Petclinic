@@ -595,10 +595,10 @@
             <name>Spring Milestone Repository</name>
             <url>https://repo.spring.io/milestone</url>
         </repository>
+        <repository>
+            <id>maven-releases</id>
+            <name>maven-releases</name>
+            <url>http://13.234.110.36:8081/repository/maven-releases/</url>
+        </repository>
     </repositories>
-    <repository>
-  <id>maven-releases</id>
-  <name>maven-releases</name>
-  <url>http://13.234.110.36:8081/repository/maven-releases/</url>
-</repository>
 </project>
